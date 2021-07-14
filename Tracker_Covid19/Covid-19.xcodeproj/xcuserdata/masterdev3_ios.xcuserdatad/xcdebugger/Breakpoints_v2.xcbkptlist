@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4E3E2C4-EEC3-4EF4-8EC7-E67126562373"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Covid-19/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - fd411c767e80adb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Covid_19.ContentView.data : Covid_19.getData"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - 8d4de185f87443e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.data.getter : Covid_19.getData"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - 8b06d841eba56395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.data.setter : Covid_19.getData"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - 442e38b85743b931"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.data.modify : Covid_19.getData"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - d88ddfb00b52db95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.data.modify : Covid_19.getData with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - f377ee55637c7db9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.$data.getter : SwiftUI.ObservedObject&lt;Covid_19.getData&gt;.Wrapper"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "042B3AE5-E4E6-4D2E-BA0C-0AF7990049FA - d9bfb9dcd674a802"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Covid_19.ContentView.init() -&gt; Covid_19.ContentView"
+                  moduleName = "Covid-19"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/masterdev3_ios/Documents/Covid19-App-Tracker/Covid-19/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
